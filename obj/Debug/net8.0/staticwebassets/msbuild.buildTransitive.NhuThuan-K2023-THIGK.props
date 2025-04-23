@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NhuThuan-K2023-THIGK.props" />
+</Project>

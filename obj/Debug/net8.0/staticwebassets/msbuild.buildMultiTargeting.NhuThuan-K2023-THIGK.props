@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NhuThuan-K2023-THIGK.props" />
+</Project>

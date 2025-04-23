@@ -1,0 +1,6 @@
+@NhuThuan_K2023_THIGK_HostAddress = http://localhost:5283
+
+GET {{NhuThuan_K2023_THIGK_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
